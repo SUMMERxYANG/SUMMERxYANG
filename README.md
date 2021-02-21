@@ -34,6 +34,7 @@ Data visualization
   ![Bokeh](https://img.shields.io/badge/bokeh-bokeh-4a5057?style=for-the-badge&logo=bokeh&logoColor=4a5057&labelColor=e5e9F0)
   ![Plotly](https://img.shields.io/badge/px-plotly-4a5057?style=for-the-badge&logo=plotly&logoColor=4a5057&labelColor=e5e9F0)
 
+<!---
 Other tools  
   ![Git](https://img.shields.io/badge/git-4a5057?style=for-the-badge&logo=git&logoColor=4a5057&labelColor=e5e9F0)
   ![JupyterNotebook](https://img.shields.io/badge/Jupyter-4a5057?style=for-the-badge&logo=jupyter&logoColor=4a5057&labelColor=e5e9F0)
@@ -45,6 +46,8 @@ Web dev (newbie)
   ![CSS3](https://img.shields.io/badge/css-4a5057?style=for-the-badge&logo=css3&logoColor=4a5057&labelColor=e5e9F0)
   ![JavaScript](https://img.shields.io/badge/javascript-4a5057?style=for-the-badge&logo=javascript&logoColor=4a5057&labelColor=e5e9F0)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-4a5057?style=for-the-badge&logo=bootstrap&logoColor=4a5057&labelColor=e5e9F0)
+-->
+
 
 <!---
 <a href="https://github.com/summerxyang?tab=repositories">
