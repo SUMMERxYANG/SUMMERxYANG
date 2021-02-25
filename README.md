@@ -19,7 +19,7 @@ Programming
 
 Machine learning  
   ![ScikitLearn](https://img.shields.io/badge/scikitLearn-4a5057?style=for-the-badge&logo=scikit-learn&logoColor=4a5057&labelColor=e5e9F0)
-  ![Tensorflow](https://img.shields.io/badge/tensofrflow-4a5057?style=for-the-badge&logo=tensorflow&logoColor=4a5057&labelColor=e5e9F0)
+  ![Tensorflow](https://img.shields.io/badge/tensorflow-4a5057?style=for-the-badge&logo=tensorflow&logoColor=4a5057&labelColor=e5e9F0)
   ![Pytorch](https://img.shields.io/badge/pytorch-4a5057?style=for-the-badge&logo=pytorch&logoColor=4a5057&labelColor=e5e9F0)
 
 Databases  
