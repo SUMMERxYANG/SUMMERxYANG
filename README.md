@@ -3,9 +3,9 @@
 
 <h3> 😊 About Me </h3>
 
- 🎓 I'm a 3rd year student studying statistics and quantitative finance at U of T. <br>
+ 🎓 I'm a 4th year student studying statistics and quantitative finance at U of T. <br>
  🔧 Currently building: a productivity dashboard & a neural network that composes music <br>
- 🔥 Hobbies: making music, photography, cooking, reading, snowboarding <br>
+ ✨ Hobbies: making music, photography, cooking, reading, snowboarding <br>
  📫 You can reach me at summer.yang@outlook.com <br>
 
 
